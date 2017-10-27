@@ -1,0 +1,28 @@
+body {
+	background-color: black
+}
+
+h1 {
+	color: red
+}
+
+h2 {
+	color: red
+}
+
+img {
+	max-width: 25%;
+	max-height: 25%;
+}
+
+div {
+	color: red
+}
+
+a {
+	color: red
+}
+
+#grad {
+	background: linear-gradient(to bottom right, black, purple);
+}
