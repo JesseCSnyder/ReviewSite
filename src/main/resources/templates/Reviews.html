@@ -12,7 +12,7 @@
 	<header>
 		<h1>Band Reviews</h1>
 	</header>
-	
+
 	<div th:each="review: ${reviews}">
 		<h2>
 			<a th:href="@{/review(id=${review.id})}" th:text="${review.title}"></a>
