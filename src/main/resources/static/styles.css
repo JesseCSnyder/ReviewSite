@@ -26,3 +26,8 @@ a {
 #grad {
 	background: linear-gradient(to bottom right, black, purple);
 }
+
+#grad1 {
+	height: 100vh;
+	background: linear-gradient(to bottom right, black, purple);
+}
