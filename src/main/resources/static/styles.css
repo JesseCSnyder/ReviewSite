@@ -31,3 +31,7 @@ a {
 	height: 100vh;
 	background: linear-gradient(to bottom right, black, purple);
 }
+
+a:hover {
+	color: blue
+}
